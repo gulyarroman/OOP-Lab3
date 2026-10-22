@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="ArrayConsole/ArrayConsole.csproj" />
+  <Project Path="ArrayLib/ArrayLib.csproj" />
+  <Project Path="ArrayWpf/ArrayWpf.csproj" />
+  <Project Path="MatrixConsole/MatrixConsole.csproj" />
+</Solution>
